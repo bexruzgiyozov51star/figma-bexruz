@@ -1,0 +1,144 @@
+.kub{
+    width:1400px;
+    height:615px;
+    background-color: #0A2640;
+}
+.tyu{
+   display: flex;
+   gap: 100px;
+   margin-top: -62px;
+   margin-left: 767px;
+   color: white;
+}
+.boldo{
+    font-size: 43px;
+    margin-left: 170px;
+    margin-top: -602px;
+    color: white;
+}
+ul button{
+    border-radius: 24px;
+    width: 100px;
+    height: 30px;
+    margin-top: -5px;
+
+}
+ li{
+    list-style-type: none;
+}
+.bob{
+    text-align: center;
+    color:white;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.bobik{
+    font-size: 64px;
+    color: white;
+    margin-left: 350px;
+}
+.bobikjon{
+    font-size: 16px;
+    color: white;
+    margin-left: 350px;
+}
+.img-src{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.gogogo{
+    position: absolute;
+    margin-top: -650px;
+    margin-left: 500px;
+}
+.tesgo{
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -650px;
+}
+.hsvg{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -299px;  
+}
+.nager{
+    font-size: 20px;
+    margin-left: 367px;
+    margin-top: 297px;
+    color:#777777;
+}
+.niger{
+    font-size: 48px;
+    margin-left:360px;
+}
+.noger{
+    font-size: 20px;
+    margin-left: 360px;
+    color: #777777;
+}
+.divbek{
+    width: 1400px;
+    height: 584px;
+    background-color: #0A2640;
+}
+.ha{
+    font-size: 20px;
+    color: #777777;
+    position: absolute;
+    margin-top: 67px;
+    margin-left: 627px;
+}
+.nigerbek{
+    font-size: 48px;
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+.nobek{
+    font-size: 96px;
+    color: #4FE9A4;
+    position: absolute;
+    margin-top: 302px;
+    margin-left: 200px;
+}
+.noel{
+    font-size: 96px;
+    color: #4FE9A4;
+    position: absolute;
+    margin-top: 302px;
+    margin-left: 655px;
+}
+.nobel{
+    font-size: 96px;
+    color: #4FE9A4;
+    position: absolute;
+    margin-top: 302px;
+    margin-left: 1118px;
+}
+.Our{
+    font-size: 20px;
+    color: #777777;
+    margin-left: 317px;
+    margin-top: 100px;
+}
+.plass{
+    font-size: 48px;
+    margin-left: 309px;
+}
+.viewport{
+    font-size: 20px;
+    color: #777777;
+    position: absolute;
+    margin-left: 308px;
+}
+.suvi{
+    margin-top: 200px
+
+}
+.suviu{
+    margin-left: 100px;
+}
+.suviy{
+    margin-left: 100px;
+}
